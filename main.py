@@ -22,7 +22,7 @@ st.header("PLANTGUARD")
 # Home
 def home_page():
     st.header("Welcome to PlantGuard: Your Partner in Plant Health")
-    img="E:\plant\disease-image.jpg"
+    img="disease-image.jpg"
     st.image(img,use_column_width=True)
     
 
