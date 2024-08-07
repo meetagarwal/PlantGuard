@@ -20,7 +20,7 @@ The model is trained using the Adam optimizer with a categorical cross-entropy l
 
 The model is evaluated using classification metrics such as precision, recall, and F1-score, as well as a confusion matrix.
 
-## Model Deployment
+## Model Deployment:-https://plantguardd.streamlit.app/
 
 The trained model is deployed using Streamlit, a popular open-source app framework for machine learning and data science applications. The app allows users to upload leaf images and receive predictions for the corresponding plant diseases.
 
