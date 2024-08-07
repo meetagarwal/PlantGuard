@@ -4,7 +4,7 @@
 
 This project aims to develop a deep learning model for detecting plant diseases based on leaf images. The model is built using TensorFlow and Keras, and it utilizes a convolutional neural network (CNN) architecture to classify leaf images into different disease categories.
 
-## Dataset
+## Dataset:-https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 The dataset used in this project consists of approximately 87,000 RGB images of healthy and diseased crop leaves, categorized into 38 different classes. The dataset is divided into an 80/20 ratio for training and validation, and a separate directory containing 33 test images is used for prediction purposes.
 
